@@ -1,0 +1,61 @@
+
+
+.font{
+  font-family:sans-serif;
+  font: futura italic;
+  color:white;
+  font-style:italic;
+  font-weight: 100;
+}
+
+.font2{
+  font-family:arial;
+  color:red;
+  font-style: italic;
+  font-weight: 300;
+
+
+}
+
+.alignright {
+  position: absolute;
+  top:0;
+  right:20px;
+}
+
+
+
+.something{
+  color:red;
+}
+.shout{
+  text-transform:uppercase;
+}
+
+a:hover{
+  font-size:24px;
+  background-color:yellow;
+}
+
+a{color:blue;
+}
+
+.profile {
+  width: 350px;
+  height: auto;
+
+}
+header h1, header h4 {
+  margin: 30px;
+}
+
+header {
+  background-color: red;
+  width: 350px;
+  height:125px;
+}
+
+.subheader {
+  width: 350px;
+  text-align:center;
+}
